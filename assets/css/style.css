@@ -1,0 +1,31 @@
+.body {
+   background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h1 {
+   background-color:rgb(96, 160, 177);
+    color:black;
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+
+
+.card {
+    color: white;
+    font-size: 20px;
+   background-color: rgb(238, 200, 129);
+
+}
+
+div#card {
+    display: flex;
+    flex-direction: column-reverse;
+}
